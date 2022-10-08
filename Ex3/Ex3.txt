@@ -1,0 +1,3 @@
+Questao 3 - nivelamento ed2
+
+Não. Se as palavras estivrem em apenas uma string, não será possível invertê-las. Pois no sistema de pilha só conseguiríamos inverter se as palavras estivessem separadas uma em cada posição da pilha, então o sistema LIFO faria o trabalho para inverter. Lembrando que o sistema LIFO significa que: "O último elemento a entrar será o primeiro a sair". 
